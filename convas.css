@@ -1,0 +1,13 @@
+body{
+	background-color : #d9afef;
+}
+#head{
+	text-align : center;
+	color : RED;
+	text-decoration : underline;
+	
+}
+strong{
+	color:BLUE;
+	
+}
